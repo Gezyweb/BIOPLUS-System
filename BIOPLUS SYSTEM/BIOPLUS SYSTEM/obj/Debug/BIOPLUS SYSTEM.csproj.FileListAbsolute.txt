@@ -1,0 +1,9 @@
+c:\users\oo130\documents\visual studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\bin\Debug\BIOPLUS SYSTEM.exe.config
+c:\users\oo130\documents\visual studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\bin\Debug\BIOPLUS SYSTEM.exe
+c:\users\oo130\documents\visual studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\bin\Debug\BIOPLUS SYSTEM.pdb
+c:\users\oo130\documents\visual studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\obj\Debug\BIOPLUS SYSTEM.csprojResolveAssemblyReference.cache
+c:\users\oo130\documents\visual studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\obj\Debug\BIOPLUS_SYSTEM.Form1.resources
+c:\users\oo130\documents\visual studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\obj\Debug\BIOPLUS_SYSTEM.Properties.Resources.resources
+c:\users\oo130\documents\visual studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\obj\Debug\BIOPLUS SYSTEM.csproj.GenerateResource.Cache
+c:\users\oo130\documents\visual studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\obj\Debug\BIOPLUS SYSTEM.exe
+c:\users\oo130\documents\visual studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\obj\Debug\BIOPLUS SYSTEM.pdb

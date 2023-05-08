@@ -7,3 +7,5 @@ c:\users\oo130\documents\visual studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYST
 c:\users\oo130\documents\visual studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\obj\Debug\BIOPLUS SYSTEM.csproj.GenerateResource.Cache
 c:\users\oo130\documents\visual studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\obj\Debug\BIOPLUS SYSTEM.exe
 c:\users\oo130\documents\visual studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\obj\Debug\BIOPLUS SYSTEM.pdb
+C:\Users\oo130\Documents\Visual Studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\obj\Debug\BIOPLUS_SYSTEM.User.resources
+C:\Users\oo130\Documents\Visual Studio 2012\Projects\BIOPLUS SYSTEM\BIOPLUS SYSTEM\obj\Debug\BIOPLUS_SYSTEM.Register.resources
